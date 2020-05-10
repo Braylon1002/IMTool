@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd49cc4-202c-48d6-a7a7-d40dab231f8e" name="Default Changelist" comment="" />
+    <list default="true" id="8dd49cc4-202c-48d6-a7a7-d40dab231f8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pypiIM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMTools/IMRank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMTools/MonteCarloIC_greedy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMTools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/imtool-0.1.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imtool.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imtool.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imtool.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imtool.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imtools.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imtools.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imtools.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imtools.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="946" />
     <option name="width" value="983" />
     <option name="height" value="1039" />
@@ -129,16 +151,15 @@
       <option name="presentableId" value="Default" />
       <updated>1588338390478</updated>
       <workItem from="1588338393053" duration="3454000" />
-      <workItem from="1589091767524" duration="1493000" />
+      <workItem from="1589091767524" duration="1589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4947000" />
+    <option name="totallyTimeSpent" value="5043000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1997319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
