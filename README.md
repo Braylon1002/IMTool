@@ -15,8 +15,16 @@ this repository is a Influence Maximization tools kit, including Classic methods
 
 
 # EXAMPLE
-'''python
-## test 
+```python
+## test based on IMRank
+data = np.loadtxt('./graph.txt')
+data = list(data)
+
+IMRank(data)
+```
+
+```python
+ ## test Greedy based on IC
 source = [0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,2,3,4,5]
 target = [2,3,4,5,6,7,8,9,2,3,4,5,6,7,8,9,6,7,8,9]
 
@@ -27,5 +35,5 @@ g.add_edges(zip(source, target))
 greed_res = greedy(g, 2, p=0.2, mc=1000)
 
 print(greed_res)
-'''
+```
 
