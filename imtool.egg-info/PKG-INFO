@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: imtool
+Version: 0.1
+Summary: this package aims to contain Influence Maximization tools as much as possible.
+Home-page: https://gitee.com/S_Braylon/dashboard/projects
+Author: Braylon
+Author-email: S.Braylon1002@gmail.com
+Maintainer: Braylon
+Maintainer-email: S.Braylon1002@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: all
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
